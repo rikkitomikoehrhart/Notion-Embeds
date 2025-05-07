@@ -2,7 +2,7 @@
 const affirmations = [
   "I'm here, I'm ready, I'm growing",
   "Every step counts",
-  "I'm stronger than I was Monday",
+  "I'm stronger today than I was Monday",
   "I rise through challenge",
   "I'm proud of my progress",
   "I invest in myself today",
