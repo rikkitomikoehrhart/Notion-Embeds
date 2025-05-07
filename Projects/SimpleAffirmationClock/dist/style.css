@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+html {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Special Elite", system-ui;
+}
+
+#clock {
+  text-align: center;
+  padding: 20px;
+}
+
+#affirmation {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+#time {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
